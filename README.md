@@ -5,7 +5,7 @@
 Email Me 👉 ✉️ **ranjanarauniyar384@gmail.com 😊😊
 
 - 🔭 **I’m currently:** IT final year Student
-- 🌱 **I’m currently learning:** Ptthon
+- 🌱 **I’m currently learning:** Python
   
 - 📫 **How to reach me:** ranjanarauniyar384@gmail.com
 

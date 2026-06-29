@@ -1,16 +1,13 @@
-
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#58A6FF;">Ranjana Rauniyar</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Ranjana Rauniyar</h1>
 
 <h3 align="center">
-💙 Aspiring Software Developer | 🎓 Diploma in Information Technology Student
+💙 Aspiring Software Developer | 🎓 Diploma in Information Technology
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Passionate+Web+Developer;Python+%7C+Java+%7C+Spring+Boot;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Web+Development+Enthusiast;Java+%7C+Python+%7C+Spring+Boot;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -19,107 +16,74 @@
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 Diploma in Information Technology Student
-
-💻 Passionate about **Software Development** & **Web Development**
-
-🌱 Currently Learning
-
-- Python
-- Java
-- JavaScript
-- SQL
-- Spring Boot
-- Data Structures & Algorithms
-
-🚀 I enjoy building responsive websites and practical software projects.
-
-🎯 **Career Goal**
-
-Become a skilled Software Developer and contribute to impactful software solutions.
+- 🎓 Diploma in Information Technology student  
+- 💻 Passionate about Software & Web Development  
+- 🌱 Currently learning: Python, Java, JavaScript, SQL, Spring Boot  
+- 🚀 I enjoy building real-world projects  
+- 🎯 Goal: Become a skilled Software Developer  
 
 ---
 
-# 🚀 Currently Working On
-
-- 🌱 Spring Boot
-- 💻 Web Development Projects
-- 📚 Data Structures & Algorithms
-- ⚡ Improving Problem Solving Skills
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,java,mysql,spring,git,github,vscode"/>
-
 </p>
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-### 🍽️ Restaurant Website
-
-Responsive Restaurant Website using **HTML, CSS & Bootstrap**
-
-### 🌐 Portfolio Website
-
-Personal portfolio showcasing my skills and projects.
-
-### 🎨 CSS Practice Repository
-
-Collection of CSS layouts, animations and responsive design.
+- 🍽️ Restaurant Website (HTML, CSS, Bootstrap)  
+- 🌐 Portfolio Website  
+- 🎨 CSS Practice Projects  
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=coder-ranjana&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=coder-ranjana&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ranjana&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ranjana&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=coder-ranjana&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=coder-ranjana&theme=algolia&no-frame=true&margin-w=15"/>
-
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-ranjana&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -135,24 +99,12 @@ Collection of CSS layouts, animations and responsive design.
 
 ---
 
-# 💬 Quote
+## 💬 Quote
 
 <p align="center">
-
-<i>"Success comes from continuous learning, consistency, and building real-world projects."</i>
-
+<i>"Consistency + Practice + Projects = Growth"</i>
 </p>
 
 ---
 
-<div align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
-<h3 align="center">
-⭐ Thanks for Visiting My GitHub Profile ⭐
-</h3>
+<h3 align="center">⭐ Thanks for visiting my GitHub profile ⭐</h3>
